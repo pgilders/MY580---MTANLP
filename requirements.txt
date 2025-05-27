@@ -1,0 +1,10 @@
+spacy
+scikit-learn
+pandas
+wordcloud
+matplotlib
+nltk
+networkx
+sentence_transformers
+bertopic
+openai
